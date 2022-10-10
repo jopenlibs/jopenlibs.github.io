@@ -14,5 +14,5 @@ Any libraries with appropriate open source license (MIT, BSD, Unlicense etc.) ma
 To join, add project and discuss any questions about any activity of the organization, [create a new ticket](https://github.com/jopenlibs/.github/issues)
 
 ## Libraries
-* [**vault-java-driver**](/vault-java-driver) - original project [dead](https://github.com/BetterCloud/vault-java-driver/pull/245#issuecomment-954066376). 
+* [**vault-java-driver**](https://jopenlibs.github.io/vault-java-driver/) - original project [dead](https://github.com/BetterCloud/vault-java-driver/pull/245#issuecomment-954066376). 
 But the HCP Vault [recommends to use the library](https://www.vaultproject.io/api-docs/libraries#java).
