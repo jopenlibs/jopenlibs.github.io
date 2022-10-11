@@ -263,7 +263,7 @@ final LogicalResponse response = vault.withRetries(5, 1000)
 
 API Reference (Javadocs)
 ------------------------
-Full [Javadoc documentation](http://bettercloud.github.io/vault-java-driver/javadoc/).
+Full [Javadoc documentation](https://jopenlibs.github.io/vault-java-driver/javadoc).
 
 Version History
 ---------------
