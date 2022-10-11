@@ -1,9 +1,0 @@
-module:vault.java.driver
-io.github.jopenlibs.vault
-io.github.jopenlibs.vault.api
-io.github.jopenlibs.vault.api.database
-io.github.jopenlibs.vault.api.mounts
-io.github.jopenlibs.vault.api.pki
-io.github.jopenlibs.vault.json
-io.github.jopenlibs.vault.response
-io.github.jopenlibs.vault.rest
